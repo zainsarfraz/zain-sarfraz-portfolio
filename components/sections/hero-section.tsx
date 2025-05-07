@@ -18,7 +18,7 @@ export function HeroSection() {
           transition={{ duration: 0.5 }}
         >
           <Badge className="px-3 py-1 text-sm">Available for hire</Badge>
-          <h1 className="text-4xl md:text-6xl font-bold tracking-tight">Hi, I'm John Doe</h1>
+          <h1 className="text-4xl md:text-6xl font-bold tracking-tight">Hi, I'm Zain Sarfraz</h1>
           <h2 className="text-2xl md:text-3xl font-medium text-muted-foreground">
             Software Engineer & Full-Stack Developer
           </h2>
